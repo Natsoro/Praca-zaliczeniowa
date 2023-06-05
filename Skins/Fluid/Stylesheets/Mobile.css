@@ -6,15 +6,15 @@
 	{
 		background-position: center top;
 		background-repeat: no-repeat;
-		background-color: #076685;
+		background-color: #070B35;
 	}
 
 	.title-bar-layout a.logo
 	{
-		width: 229px;
+		width: 199px;
 		height: 55px;
-		background: transparent url('Images/PlaceholderLogo-white.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/PlaceholderLogo-white.png') no-repeat center center;
+		background: transparent url('Images/Logo1.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Logo1.png') no-repeat center center;
 	}
 
 	.search-bar .search-submit
@@ -69,7 +69,7 @@
 	.central-dropdown
 	{
 		left: auto;
-		right: 35px;
+		right: auto;
 	}
 
 	.central-dropdown .central-account-drop
@@ -96,7 +96,7 @@
 	.central-dropdown-content
 	{
 		left: auto;
-		right: -25px;
+		right: auto;
 		background-color: #ffffff;
 	}
 
@@ -832,9 +832,9 @@
 
 	nav.title-bar .menu-icon
 	{
-		display: block;
+		display: none;
 		left: auto;
-		right: -13px;
+		right: auto;
 	}
 
 	.search-auto-complete ul

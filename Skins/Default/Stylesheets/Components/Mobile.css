@@ -225,7 +225,7 @@
 
 	ul.menu._Skins_Topics_Menu.mc-component
 	{
-		background-color: #f3f4f4;
+		background-color: #ffffff;
 	}
 
 	ul.menu._Skins_Topics_Menu.mc-component a
@@ -443,7 +443,7 @@
 
 	._Skins_Home_Searchbar.mc-component .search-filter-content
 	{
-		top: 3em;
+		top: 2em;
 		background-color: #ffffff;
 	}
 

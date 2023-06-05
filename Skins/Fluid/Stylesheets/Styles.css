@@ -109,7 +109,7 @@ ul.navigation
 	margin-left: 0;
 	background-repeat: repeat;
 	background-position: center center;
-	color: #ffffff;
+	color: #4EE49C;
 	font-size: 16px;
 	font-weight: normal;
 	padding-left: 20px;
@@ -129,7 +129,7 @@ ul.navigation ul
 	margin: 0;
 	padding: 10px 0 10px 0;
 	position: absolute;
-	background-color: #f3f4f4;
+	background-color: #070B35;
 }
 
 ul.navigation > li > ul.openLeft
@@ -154,7 +154,7 @@ ul.navigation > li.has-children:after
 	bottom: 0;
 	left: 50%;
 	margin-left: -8px;
-	border-bottom-color: #f3f4f4;
+	border-bottom-color: #070B35;
 }
 
 ul.navigation ul,
@@ -173,7 +173,7 @@ ul.navigation ul ul
 {
 	top: 0;
 	left: 100%;
-	background-color: #f3f4f4;
+	background-color: #070B35;
 }
 
 ul.navigation ul ul.openLeft
@@ -191,7 +191,7 @@ ul.navigation ul ul.openRight
 ul.navigation a
 {
 	text-decoration: none;
-	color: #ffffff;
+	color: #4EE49C;
 	font-size: 16px;
 	font-weight: normal;
 }
@@ -279,7 +279,7 @@ nav.title-bar
 	display: block;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	background-color: #076685;
+	background-color: #070B35;
 }
 
 nav.title-bar .menu-icon
@@ -334,11 +334,11 @@ nav.title-bar .menu-icon
 	margin: 0;
 	z-index: 1;
 	display: block;
-	width: 229px;
+	width: 199px;
 	height: 55px;
 	align-self: center;
-	background: transparent url('Images/PlaceholderLogo-white.png') no-repeat center center;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/PlaceholderLogo-white.png') no-repeat center center;
+	background: transparent url('Images/Logo1.png') no-repeat center center;
+	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Logo1.png') no-repeat center center;
 }
 
 .title-bar-container
@@ -2052,7 +2052,7 @@ ul.sidenav ul ul ul ul > li > a.selected
 
 ul.navigation ul a
 {
-	color: #000000;
+	color: #4EE49C;
 }
 
 ul.navigation ul ul a
@@ -2062,7 +2062,7 @@ ul.navigation ul ul a
 
 ul.navigation ul ul ul
 {
-	background-color: #f3f4f4;
+	background-color: #070B35;
 }
 
 ul.navigation ul ul ul a
@@ -2072,7 +2072,7 @@ ul.navigation ul ul ul a
 
 ul.navigation ul ul ul ul
 {
-	background-color: #f3f4f4;
+	background-color: #070B35;
 }
 
 ul.navigation ul ul ul ul a

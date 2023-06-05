@@ -1205,7 +1205,7 @@ div.central-dropdown-content > a:hover
 
 ul.menu._Skins_Topics_Menu.mc-component
 {
-	color: #000000;
+	color: #4EE49C;
 	font-size: 1em;
 	font-weight: normal;
 	font-style: normal;
@@ -1221,12 +1221,12 @@ ul.menu._Skins_Topics_Menu.mc-component
 	width: 100%;
 	height: auto;
 	max-height: 100%;
-	background-color: #f3f4f4;
+	background-color: #ffffff;
 }
 
 ul.menu._Skins_Topics_Menu.mc-component a
 {
-	color: #000000;
+	color: #4EE49C;
 	font-size: 1em;
 	font-weight: normal;
 	font-style: normal;
@@ -1477,14 +1477,14 @@ ul.menu._Skins_Topics_Menu.mc-component li > a.selected:hover
 .search-bar._Skins_Home_Searchbar.mc-component
 {
 	display: block;
-	width: 60%;
-	height: 3em;
+	width: 30%;
+	height: 2em;
 	margin-top: 10px;
 }
 
 .search-bar._Skins_Home_Searchbar.mc-component .search-field
 {
-	height: 3em;
+	height: 2em;
 	border-left: none;
 	border-right: none;
 	border-top: none;
@@ -1501,7 +1501,7 @@ ul.menu._Skins_Topics_Menu.mc-component li > a.selected:hover
 
 .search-bar._Skins_Home_Searchbar.mc-component .search-filter
 {
-	height: 3em;
+	height: 2em;
 	border-top: none;
 	border-bottom: none;
 	border-left: solid 1px #000000;
@@ -1513,7 +1513,7 @@ ul.menu._Skins_Topics_Menu.mc-component li > a.selected:hover
 
 .search-bar._Skins_Home_Searchbar.mc-component .search-submit
 {
-	height: 3em;
+	height: 2em;
 	border-right: none;
 	border-top: none;
 	border-bottom: none;
@@ -1523,7 +1523,7 @@ ul.menu._Skins_Topics_Menu.mc-component li > a.selected:hover
 
 ._Skins_Home_Searchbar.mc-component .search-filter-content
 {
-	top: 3em;
+	top: 2em;
 	color: #45494c;
 	background-color: #ffffff;
 }
@@ -1586,12 +1586,12 @@ ul.menu._Skins_Topics_Menu.mc-component li > a.selected:hover
 .search-bar._Skins_Home_Searchbar.mc-component .search-filter-wrapper
 {
 	font-size: 1em;
-	right: 56px;
+	right: 51px;
 }
 
 .search-bar.search-bar-container._Skins_Home_Searchbar.mc-component .search-submit
 {
-	width: 56px;
+	width: 51px;
 	background: transparent url('Images/search-30x30.png') no-repeat center center;
 	-pie-background: transparent url('Skins/Default/Stylesheets/Components/Images/search-30x30.png') no-repeat center center;
 }

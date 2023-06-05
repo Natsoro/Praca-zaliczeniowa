@@ -4,13 +4,13 @@
 
 :root
 {
-	--Brand1: #076685;
-	--Brand2: #CDE0E7;
 	--Black: #000000;
 	--Dark: #45494c;
 	--Medium: #b9bec1;
 	--Light: #d0d3d5;
 	--White: #ffffff;
+	--Brand1: #4EE49C;
+	--Brand2: #ffffff;
 }
 
 body
@@ -330,6 +330,8 @@ div.home-tiles > div:nth-child(3)
 
 div.quick-links	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
 {
+	display: flex;
+	justify-content: center;
 	mc-grid-row: true;
 	margin-left: auto;
 	margin-right: auto;
@@ -393,9 +395,9 @@ div.quick-links *	/*Text-align center set to all elements within div.quick-links
 div.topic-hero
 {
 	padding: 8% 0;
-	background-image: url('../Images/Hero-Image.png');
 	background-size: cover;
 	background-attachment: scroll;
+	background-image: url('../Images/hero.jpg');
 }
 
 div.topic-hero h1
@@ -753,6 +755,18 @@ p.footer-sub
 	div.side-content
 	{
 		
+	}
+
+	div.quick-links
+	{
+		display: flex;
+		justify-content: center;
+	}
+
+	:root
+	{
+		--Brand1: #07133b;
+		--Brand2: #19cc77;
 	}
 }
 

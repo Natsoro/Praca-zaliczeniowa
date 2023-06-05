@@ -287,7 +287,7 @@
 	nav.title-bar
 	{
 		background-repeat: no-repeat;
-		background-color: #076685;
+		background-color: #070B35;
 	}
 
 	.off-canvas-wrapper-inner nav.title-bar .outer-row
@@ -414,8 +414,8 @@
 
 	.title-bar-layout a.logo
 	{
-		background: transparent url('Images/PlaceholderLogo-white.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/PlaceholderLogo-white.png') no-repeat center center;
+		background: transparent url('Images/Logo1.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Logo1.png') no-repeat center center;
 	}
 
 	.main-section > .outer-row
@@ -1221,25 +1221,25 @@
 	ul.navigation ul
 	{
 		background-repeat: repeat;
-		background-color: #f3f4f4;
+		background-color: #070B35;
 	}
 
 	ul.navigation ul ul
 	{
 		background-repeat: repeat;
-		background-color: #f3f4f4;
+		background-color: #070B35;
 	}
 
 	ul.navigation ul ul ul
 	{
 		background-repeat: repeat;
-		background-color: #f3f4f4;
+		background-color: #070B35;
 	}
 
 	ul.navigation ul ul ul ul
 	{
 		background-repeat: repeat;
-		background-color: #f3f4f4;
+		background-color: #070B35;
 	}
 
 	ul.navigation li

@@ -47,16 +47,16 @@
 		cursor: pointer;
 		top: 50%;
 		transform: translateY(-50%);
-		display: block;
+		display: none;
 		left: auto;
-		right: -13px;
+		right: auto;
 	}
 
 	nav.title-bar
 	{
 		background-position: center top;
 		background-repeat: no-repeat;
-		background-color: #076685;
+		background-color: #070B35;
 	}
 
 	/* Topbar Menu Styles */
@@ -83,10 +83,10 @@
 	{
 		top: 0;
 		margin: 0;
-		width: 229px;
+		width: 199px;
 		height: 55px;
-		background: transparent url('Images/PlaceholderLogo-white.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/PlaceholderLogo-white.png') no-repeat center center;
+		background: transparent url('Images/Logo1.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Logo1.png') no-repeat center center;
 	}
 
 	.title-bar .menu-icon span
@@ -230,7 +230,7 @@
 		transform: translateY(-50%);
 		margin: 0;
 		left: auto;
-		right: 35px;
+		right: auto;
 	}
 
 	.title-bar-layout .central-account-wrapper
@@ -261,7 +261,7 @@
 	.central-dropdown-content
 	{
 		left: auto;
-		right: -25px;
+		right: auto;
 		background-color: #ffffff;
 	}
 
